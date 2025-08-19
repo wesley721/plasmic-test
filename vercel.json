@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/sitemap.xml",
-      "destination": "https://plasmic-test-one.vercel.app/sitemap.xml"
+      "destination": "https://sitemap-amp.vercel.app/sitemap.xml"
     }
   ]
 }
